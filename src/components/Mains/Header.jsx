@@ -5,7 +5,7 @@ function Header(){
     return(
         <>
         <header className=' h-[130px] w-full bg-[#000426]'><div className='flex justify-center w-full h-full py-5 items-center gap-32 ml-[-100px]'>
-  <div className='text-white font-extrabold text-2xl inline fixed top-12 left-4 z-30'> <Link to="/"><img src="./icons8-discord-50.png" alt="" srcset="" className='inline h-9 w-9 mr-2 '  />Discord</Link></div>
+  <div className='text-white font-extrabold text-2xl inline fixed top-12 left-4 z-30'> <Link to="/"><img src="./images/icons8-discord-50.png" alt="" srcset="" className='inline h-9 w-9 mr-2 '  />Discord</Link></div>
   <div className='ml-[160px]'><ul role='list' className=' flex gap-4 font-bold '>
     <li className='text-white inline text-[14px] hover:bg-blue-400 hover:bg-opacity-5  rounded-[6px]'><NavLink to='/download' className={({isActive})=> `p-1${isActive ? "text-purple-400" : "text-white"}`} >Download</NavLink></li>
     <li className='text-white inline text-[14px]  hover:bg-blue-400 hover:bg-opacity-5 rounded-[6px]'><NavLink to='/nitro' className={({isActive})=> (isActive? "text-purple-400" : "text-white")}>Nitro</NavLink></li>

@@ -33,7 +33,7 @@ function Careers() {
  
 
         <div className='w-full h-[600px] bg-gradient-to-b from-indigo-900 to-black'> 
-            <img src="./public/67628ca77dc02004de7d588e_Discord_Careers_09.webp" alt="" className='h-[700px] w-auto ml-[120px] rounded-xl' />
+            <img src="./images/67628ca77dc02004de7d588e_Discord_Careers_09.webp" alt="" className='h-[700px] w-auto ml-[120px] rounded-xl' />
         </div>
             <div className='w-full h-[600px] bg-black'><h1 className='pt-[100px] text-center text-[90px] align-middle text-white font-extrabold pl-[100px] pr-[100px]'>BE A PART OF THE FUTURE OF GAMING
 </h1><h3 className='text-2xl font-bold text-white text-center pr-8 pl-8'>We believe Discord is uniquely positioned to shape the future of gaming. We aren’t just imagining what it may look like, we’re building Discord to be the perfect place to talk while playing games on any platform, no matter what device you play on.
@@ -42,11 +42,11 @@ function Careers() {
 </div>
  <div className='w-full h-[800px] bg-[#000000] flex gap-[300px] pt-[150px]'> <div className='w-[500px] pl-[40px]'><h1 className='text-white font-extrabold text-6xl align-baseline '>Work with people just as passionate as you</h1>
         <h3 className='text-white font-bold text-[20px] pt-[80px]'>Much like the people on Discord, our employees can’t be put in a box (but maybe in a server). We come from all walks of life, and with our own unique perspectives, but we all care about the same thing: making Discord your home while gaming.</h3>
-       </div><div className='h-[600px] w-[500px] flex'> <img src="./public/67b5a1dff532eaee97109138_Image.webp" alt="" className='h-[500px] w-[400px] ml-[80px] mt-[100px] rounded-2xl'/>
+       </div><div className='h-[600px] w-[500px] flex'> <img src="./images/67b5a1dff532eaee97109138_Image.webp" alt="" className='h-[500px] w-[400px] ml-[80px] mt-[100px] rounded-2xl'/>
 </div></div>
  <div className='w-full h-[800px] bg-[#000000] flex gap-[300px] pt-[150px]'> <div className='w-[500px] pl-[40px]'><h1 className='text-white font-extrabold text-6xl align-baseline '>Where every idea is heard and valued</h1>
         <h3 className='text-white font-bold text-[20px] pt-[80px]'>We don't just build Discord, we use it too! All of us want to help make Discord the best place to play games with friends, and everyone's input matters..</h3>
-       </div><div className='h-[600px] w-[500px]'> <img src="./public/67b5a21a4f30a6644094e917_Image.webp" alt="" className='h-[500px] w-[400px] ml-[80px] mt-[100px] rounded-2xl'/>
+       </div><div className='h-[600px] w-[500px]'> <img src="./images/67b5a21a4f30a6644094e917_Image.webp" alt="" className='h-[500px] w-[400px] ml-[80px] mt-[100px] rounded-2xl'/>
 </div></div>
 
 <div className='w-full h-[300px] bg-black'><h1 className='pt-[100px] text-center text-[45px] pl-[200px] pr-[200px] align-middle text-white font-extrabold'>DON'T JUST IMAGINE THE FUTURE OF GAMING — BUILD IT WITH US.
