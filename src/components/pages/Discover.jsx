@@ -14,7 +14,7 @@ import { useEffect, useState } from "react";
           description:
             game.description || "Join our gaming community and have fun!!!",
           members: Math.floor(Math.random() * 90000) + 1000,
-          banner: game.image || "./public/WhatsApp Image 2025-10-15 at 13.20.37_854db36a.jpg",
+          banner: game.image || "./images/WhatsApp Image 2025-10-15 at 13.20.37_72f6aee8.jpg",
           category: game.genre || "Gaming",
         }));
 
